@@ -1,21 +1,27 @@
 ---
-title   : "Vernacular Houses in Portugal and Brazil: Evolution and Possible Adaptations"
-lang    : en-GB
+title   : "Vernacular Patterns in Portugal and Brazil: Evolution and Possible Adaptations"
+lang    : "en-GB"
+csl     : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
+suppress-bibliography: true
 ---
 
-Abstract
-========
+Traditional towns in Portugal and Brazil have evolved, since the
+thirteenth century, a finely tuned coordination between, on the one
+hand, modular dimensions for street widths and lot sizes, and on the
+other, a typology of room shapes and distributions within houses.
+Despite being well documented in urban history [@teixeira:2012forma;
+@trindade:2013urbanismo], this coordination was, during the past
+century, often interpreted as contingent and as a result of the limited
+material means of pre-industrial societies [@leal:2009arquitectos].
+Nevertheless, the continued application and gradual adaptation of these
+urban and architectural patterns throughout periods of industrialization
+and economic development suggests they respond to both long-lasting
+housing requirements and piecemeal urban growth. This article surveys
+the persistence of urban and architectural patterns since the mid
+nineteenth century, showing their resilience in addressing the
+requirements of modern housing and urbanisation. It concludes with a
+conceptual exercise using these traditional patterns to rehabilitate a
+contemporary fringe belt.
 
-- What we think we know and how it is relevant to the reader
-
-- What is the problem with what we think we know and why should the
-  reader care
-
-- What is the solution
-
-- How this work contributes to the solution
-
-- Preliminary results
-
-**Keywords:** Vernacular architecture, Portugal and Brazil,
-Architectural history, Procedural typology, Resilient urbanism.
+**Keywords:** Vernacular architecture, Portugal, Brazil, Procedural
+typology, Resilience.

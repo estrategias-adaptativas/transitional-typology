@@ -1,5 +1,5 @@
 ---
-title   : "Vernacular Patterns in Portugal and Brazil: Evolution and Possible Adaptations"
+title   : "Vernacular Patterns in Portugal and Brazil: Evolution and Adaptations"
 lang    : "en-GB"
 bibliography: "biblio.bib"
 csl     : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
@@ -17,10 +17,8 @@ abstract: |
   industrialization and economic development suggests they respond to
   both long-lasting housing requirements and piecemeal urban growth.
   This article surveys the persistence of urban and architectural
-  patterns since the mid nineteenth century, showing their resilience in
-  addressing the requirements of modern housing and urbanisation. It
-  concludes with a conceptual exercise using these traditional patterns
-  to rehabilitate a contemporary fringe belt.
+  patterns up to the early twentieth century, showing their resilience in
+  addressing the requirements of modern housing and urbanisation.
 Keywords:
 - Vernacular architecture
 - Portugal
@@ -158,12 +156,11 @@ Orr[^1]---that are able to support diverse uses and social classes
 within relatively small areas.
 
 :::::::::::::::::::::::::::::::::::::::::: {#fig:highstreet .subfigures}
-![Initial development along high
-street](figures/01a.png){#fig:highstreetA}
+![Initial development along high street](figures/01a.png){#fig:highstreetA width=33%}
 
-![Second high street and cross streets](figures/01b.png){#fig:highstreetB}
+![Second high street and cross streets](figures/01b.png){#fig:highstreetB width=33%}
 
-![Urban development on cross streets](figures/01c.png){#fig:highstreetC}
+![Urban development on cross streets](figures/01c.png){#fig:highstreetC width=33%}
 
 ![Formation of back streets along rear lot lines](figures/01d.png){#fig:highstreetD}
 
@@ -203,12 +200,12 @@ lots. These urban plans are executed in a modular scheme based on whole
 number ratios of the traditional Portuguese measurement unit: the hand,
 or *palmo* (abbreviated to 'p.'), equal to about 22.5 centimetres. 5 p.
 equal one Portuguese yard or *vara*, thus measuring 1.12 metre. The
-*vara* seems, in fact, to be the least module effectively used in most
+*vara* seems, in fact, to be the least multiple effectively used in most
 urban plans. At Caminha, according to the reconstruction proposed by
 Trindade ([@Fig:caminha-modules]), the basic elements of the urban
-design are 15 p.-wide streets (3.37 metres) and lots 25 p. (5.62 metres)
-wide by 60 to 75 p. (13.5 to 16.87 metres) deep
-[@trindade:2009urbanismo, 323-328].
+design are 15 p.-wide streets (3.4 metres) and lots 25 p. (5.6 metres)
+wide by 60 to 75 p. (13.5 to 16.9 metres) deep [@trindade:2009urbanismo,
+323-328].
 
 ![Reconstructed modular platting of Caminha, thirteenth century. [@trindade:2009urbanismo, 328]](figures/03.png){#fig:caminha-modules}
 
@@ -271,7 +268,7 @@ the engineers make it a point to adhere strictly the gridiron plan: it
 helps that the town is intended as a residential garrison and commercial
 harbour, while the actual fortifications are sited on higher ground.
 
-![Plan of Vila Real de Santo António, eighteenth-century drawing](figures/06.jpg){#fig:vilareal}
+![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](figures/06.jpg){#fig:vilareal}
 
 To facilitate the movement of troops and goods, but also to highlight
 the clarity and monumentality of the plan, the streets are much broader
@@ -305,9 +302,7 @@ surviving drawings for new outposts in the Brazilian frontiers, such as
 that of Taquari, in the south ([@Fig:taquari]), establish simple façade
 designs that let one guess the single room layout behind them.
 
-![Plan of the garrison town of S. José on the Tabiquary river, now town
-of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do
-Exército (Rio de Janeiro)](figures/07.jpg){#fig:taquari}
+![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](figures/07.jpg){#fig:taquari}
 
 Centralised territorial planning in Portugal and Brazil comes to a
 sudden halt at the death of D. José I in 1777, not to resume for almost
@@ -321,7 +316,9 @@ Brazil, Teresina and Aracaju (@Fig:aracaju]), are planned using the
 eighteenth century module of 60 p. wide streets forming a gridiron
 around a main square facing the river.
 
-![Aracaju, Brazil. Plan by Sebastião Basílio Pirro, 1854](figures/08.png){#fig:aracaju}
+![Aracaju, Brazil. Design by Sebastião Basílio Pirro, 1854. Plan
+(detail) by Francisco Pereira da Silva,
+1857](figures/08.jpg){#fig:aracaju}
 
 House types and fringe belt development
 =======================================
@@ -354,7 +351,7 @@ with the resilience of the 20 and 25 p. lots on the former *rossio*.
 thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro
 and rua do Sabão) and 25 p. street (cross street), blocks mostly
 subdivided into 20 p. lots. Detail from Edward Gotto's plan,
-1871](figures/09.png){#fig:gotto}
+1871](figures/09.jpg){#fig:gotto}
 
 Haussmanian *percées* by the federal government during
 the first half of the twentieth century end up opening several stretches

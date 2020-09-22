@@ -1,5 +1,5 @@
 ---
-title   : "Vernacular Patterns in Portugal and Brazil: Evolution and Possible Adaptations"
+title   : "Vernacular Patterns in Portugal and Brazil: Evolution and Adaptations"
 lang    : "en-GB"
 csl     : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
 suppress-bibliography: true
@@ -17,11 +17,9 @@ Nevertheless, the continued application and gradual adaptation of these
 urban and architectural patterns throughout periods of industrialization
 and economic development suggests they respond to both long-lasting
 housing requirements and piecemeal urban growth. This article surveys
-the persistence of urban and architectural patterns since the mid
-nineteenth century, showing their resilience in addressing the
-requirements of modern housing and urbanisation. It concludes with a
-conceptual exercise using these traditional patterns to rehabilitate a
-contemporary fringe belt.
+the persistence of urban and architectural patterns up to the early
+twentieth century, showing their resilience in addressing the
+requirements of modern housing and urbanisation.
 
 **Keywords:** Vernacular architecture, Portugal, Brazil, Procedural
 typology, Resilience.

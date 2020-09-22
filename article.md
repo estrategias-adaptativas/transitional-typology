@@ -222,9 +222,9 @@ large rooms at the front and back, with a string of small alcoves in
 between, accessed from a side hallway ([@Fig:plans]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {#fig:plans .subfigures}
-![Enfilade type](figures/04a.png){#fig:plansA}
+![Enfilade and foursquare cell type](figures/04a.png){#fig:plansA}
 
-![Side hallway type](figures/04b.png){#fig:plansB}
+![Centre or side hallway type](figures/04b.png){#fig:plansB}
 
 Two traditional Portuguese house types. Author's drawing
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

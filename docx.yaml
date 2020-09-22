@@ -1,0 +1,14 @@
+from            : 'markdown'
+to              : 'docx'
+fail-if-warnings: False
+file-scope      : True
+standalone      : True
+toc             : False
+number-sections : False
+data-dir        : 'spec'
+resource-path:
+- .
+- figures
+filters:
+- pandoc-crossref
+- pandoc-citeproc

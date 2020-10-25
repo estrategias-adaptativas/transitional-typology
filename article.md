@@ -1,9 +1,13 @@
 ---
-title   : "Vernacular Patterns in Portugal and Brazil: Evolution and Adaptations"
-lang    : "en-GB"
+title       : "Vernacular Patterns in Portugal and Brazil: Evolution and Adaptations"
+author      : 'Pedro P. Palazzo'
+affiliation : >
+  Visiting scholar, Centre for Social Studies, University of Coimbra;
+  Associate professor, University of Brasilia School of Architecture and Urbanism
+lang        : "en-GB"
 bibliography: "biblio.bib"
-csl     : "_csl/chicago-author-date.csl"
-suppress-bibliography: true
+ccsLabelSep : ' – '
+csl         : "_csl/chicago-author-date.csl"
 abstract: |
   Traditional towns in Portugal and Brazil have evolved, since the
   thirteenth century, a finely tuned coordination between, on the one
@@ -19,26 +23,30 @@ abstract: |
   This article surveys the persistence of urban and architectural
   patterns up to the early twentieth century, showing their resilience in
   addressing the requirements of modern housing and urbanisation.
-Keywords:
+keywords:
+- New towns
 - Traditional architecture
 - Procedural typology
+- Urban morphology
 - Resilience
-ccsLabelSep: ' – '
 ---
 
 # Introduction #
 
-In this article, I examine emergent order patterns of urban development
-in the vernacular traditions of the Portuguese speaking world with the
-potential to inspire resilient and sustainable policies in contemporary
-practice. I aim to identify bodies of knowledge, practices, and
+In this article, I examine patterns of urban development
+in the traditions of the Portuguese speaking world.
+I aim to identify bodies of knowledge, practices, and
 regulations prevalent from the thirteenth to the mid twentieth
 century that offer examples of decentralised economic and regulatory
-controls over urban space, resulting in emergent order systems.
+controls over urban space, resulting in emergent order systems. These
+decentralised processes are not entirely at odds with the design of new
+towns, however. The interaction between vernacular development patterns
+and planned urban forms is a recurring feature in Portuguese and
+Brazilian towns and cities.
+
 Beginning in the mid nineteenth century, these systems contend with fast
 and overarching changes in regulations and theories that put their
 resilience to the test.
-
 The rapid urban growth in the global South since the twentieth century
 has been addressed, predominantly, by means of theories and policies
 stressing centralised planning and economies of scale by both
@@ -79,7 +87,51 @@ transformation of urban forms and building patterns.
 
 # Methods and sources #
 
-The documentation for this research has drawn on mainly graphical
+The outline of this article takes its cues from Miguel de Unamuno's
+concept of 'intrahistory', translated into architectural scholarship in
+1947 by Fernando Chueca Goitia, and akin to Fernand Braudel's concept of
+*longue durée*: not just a description of events taking place over long
+periods of time, but a methodological emphasis on the slow unfolding of
+social processes over the fast motion of discrete 'facts'. Because
+prevailing trends in art and architectural history have since belied
+Chueca Goitia's assertion that 'art history .... is purely intrahistory'
+[-@chuecagoitia:1981invariantes-castizos, 45], this study is a reminder
+that the continuity of traditions is one such long-term unfolding of
+historical processes, and thus a legitimate aspect of architectural
+history, theory, and practice.
+
+The empirical methods of the British and Italian schools of urban
+morphology are promising for the reconstruction of genealogies of
+patterns and processes of typological development over long periods of
+time, beyond conventional periods defined by change of style in 'high
+art'. These methods can 
+provide indirect hints to poorly documented features such as
+socio-economic arrangements, and in turn establish the continuity and
+resilience of urban patterns [@oliveira:2016urban]. The Italian 'school'
+of procedural typology provides a significant part of the theoretical
+groundwork regarding the possibility of establishing morphological
+genealogies of vernacular and traditional urban patterns
+[@cataldi:2015tipologie].
+
+The analysis presented in this article thus assumes that making sense of
+typological continuity over several centuries is both possible and
+legitimate as an endeavour of architectural history. In the
+methodological framework of urban morphology and procedural typology
+outlined above, prevalent urban and architectural forms can be discerned
+by visual analysis of plans. The tabulation of abstract measurements as
+a source of statistical analysis not only is unnecessary in this method,
+but it also risks obscuring a concrete understanding of the urban space
+that stresses the clustering of patterns and the emergence of
+morphological districts [@raspiserra:1990concetto].
+The persistence of spatial and topological relationships among
+elements---general lot shapes, block arrangements and configurations,
+and street and square hierarchies---is extracted from visual inquiry on
+the documentation [@conzen:2018core]. The goal of this analysis is not
+only to derive *local* morphological and syntactic patterns, but also to
+point out similarities and typologies prevalent *among* urban
+developments across time and space.
+
+Documentation for this research has drawn on mainly graphical
 evidence of urban areas in Portugal and Brazil. These graphical sources
 have been collected from earlier research, municipal planning offices,
 and a few are extant historic drawings from original plans or later
@@ -99,37 +151,9 @@ iconic heritage sites as Ouro Preto, in Brazil's Minas Gerais state,
 underwent significant rebuilding and lot consolidation during the
 nineteenth century [@vieira:2016ouro].
 
-The empirical methods of the British and Italian schools of urban
-morphology are promising for the reconstruction of genealogies of
-patterns and processes of typological development. These methods
-can provide indirect hints to poorly documented features such
-as socio-economic arrangements, and in turn establish the continuity and
-resilience of urban patterns [@oliveira:2016urban]. The Italian 'school'
-of procedural typology provides a significant part of the theoretical
-groundwork regarding the possibility of establishing morphological
-genealogies of vernacular and traditional urban patterns
-[@cataldi:2015tipologie].
+# Vernacular roots of Portuguese urban traditions #
 
-The analysis presented in this article thus assumes that making sense of
-typological continuity over several centuries is both possible and
-legitimate as an endeavour of architectural history. In the
-methodological framework of urban morphology and procedural typology
-outlined above, prevalent urban and architectural forms can be discerned
-by visual analysis of plans. The tabulation of abstract measurements as
-a source of statistical analysis not only is unnecessary in this method,
-but also risks obscuring a more holistic understanding of the urban
-space that stresses the clustering of patterns and the emergence of
-morphological districts [@raspiserra:1990concetto].
-
-The persistence of spatial and topological relationships among
-elements---general lot shapes, block arrangements and configurations,
-and street and square hierarchies---can be extracted from visual inquiry
-on the documentation [@conzen:2018core]. The goal of this analysis is
-not only to derive *local* morphological and syntactic patterns, but
-also to point out similarities and typologies prevalent *among* urban
-developments across time and space.
-
-This study shows significant continuity in the urban and building
+This study evidences the significant continuity in urban and building
 modules used in Portuguese and Brazilian towns from the thirteenth to
 the twentieth centuries. Beginning with the 'birth' of modular urban
 design in Portugal in the thirteenth century, a limited set of lot and
@@ -142,8 +166,6 @@ twentieth centuries. Then, the adoption of the metric system as well as
 the onset of positivist ideals of urban hygiene cause major changes in
 lot sizes and plan layouts. Even then, some aspects of traditional house
 types are carried on until the 1960s.
-
-# Vernacular roots of Portuguese urban traditions #
 
 Portugal is part of the former Roman imperial province of Lusitania,
 later ruled by successive waves of Germanic and North African nobility.
@@ -173,17 +195,17 @@ Orr[^1]---that are able to support diverse uses and social classes
 within relatively small areas.
 
 :::::::::::::::::::::::::::::::::::::::::: {#fig:highstreet .subfigures}
-![Initial development along high street](figures/01a.png){#fig:highstreetA width=33%}
+![Initial development along high street](01a.png){#fig:highstreetA width=33%}
 
-![Second high street and cross streets](figures/01b.png){#fig:highstreetB width=33%}
+![Second high street and cross streets](01b.png){#fig:highstreetB width=33%}
 
-![Urban development on cross streets](figures/01c.png){#fig:highstreetC width=33%}
+![Urban development on cross streets](01c.png){#fig:highstreetC width=33%}
 
-![Formation of back streets along rear lot lines](figures/01d.png){#fig:highstreetD}
+![Formation of back streets along rear lot lines](01d.png){#fig:highstreetD}
 
-![Development along back streets and creation of alleys](figures/01e.png){#fig:highstreetE}
+![Development along back streets and creation of alleys](01e.png){#fig:highstreetE}
 
-![Spindle variant to the high street model](figures/01f.png){#fig:highstreetF}
+![Spindle variant to the high street model](01f.png){#fig:highstreetF}
 
 Conceptual model of the development of a Portuguese high street village. Author's drawings, after @panerai:2012analyse and @fernandes:2014fundacao
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -236,7 +258,7 @@ expediency over a punctilious observance of orthogonality, and the edges
 of the town are required to bend to the military requirements of the
 fortifications adjusted to the terrain.
 
-![Reconstructed town plan of Caminha, thirteenth century. [@trindade:2009urbanismo, 157]](figures/02.png){#fig:caminha}
+![Reconstructed town plan of Caminha, thirteenth century. [@trindade:2009urbanismo, 157]](02.png){#fig:caminha}
 
 The *vila nova* layout establishes and observes certain geometric
 procedures to ensure regularity and the equal distribution of urban
@@ -251,7 +273,7 @@ design are 15 p.-wide streets (3.4 metres) and lots 25 p. (5.6 metres)
 wide by 60 to 75 p. (13.5 to 16.9 metres) deep [@trindade:2009urbanismo,
 323-328].
 
-![Reconstructed modular platting of Caminha, thirteenth century. [@trindade:2009urbanismo, 328]](figures/03.png){#fig:caminha-modules}
+![Reconstructed modular platting of Caminha, thirteenth century. [@trindade:2009urbanismo, 328]](03.png){#fig:caminha-modules}
 
 Other commonly used lot frontage dimensions are 20 p. (4.5 metres) and
 30 p. (6.75 metres). This range of variations offers lot sizes
@@ -266,9 +288,9 @@ large rooms at the front and back, with a string of small alcoves in
 between, accessed from a side hallway ([@Fig:plans]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {#fig:plans .subfigures}
-![Enfilade and foursquare cell type](figures/04a.png){#fig:plansA}
+![Enfilade and foursquare cell type](04a.png){#fig:plansA}
 
-![Centre or side hallway type](figures/04b.png){#fig:plansB}
+![Centre or side hallway type](04b.png){#fig:plansB}
 
 Two traditional Portuguese house types. Author's drawing
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -301,7 +323,7 @@ territory, already being put in place by Spain [@oliveras:1998nuevas].
 
 Portuguese new towns such as Vila Real de Santo António
 ([@Fig:vilareal]), on the mouth of the Guadiana river in the Iberian
-peninsula, exhibit both the persistance of traditional land subdivision
+peninsula, exhibit both the persistence of traditional land subdivision
 patterns and the changes brought about in the concept of 'rational'
 planning. Vila Real de Santo António, founded in 1773, is laid out
 around a single central square on which both the town hall and the
@@ -312,7 +334,7 @@ a point to adhere strictly to the gridiron plan: it helps that the town
 is intended as a residential garrison and fishing harbour, while the
 actual fortifications are sited on higher ground.
 
-![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](figures/06.jpg){#fig:vilareal}
+![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](06.jpg){#fig:vilareal}
 
 To facilitate the movement of troops and goods, but also to highlight
 the clarity and monumentality of the plan, the streets are much broader
@@ -346,7 +368,7 @@ surviving drawings for new outposts in the Brazilian frontiers, such as
 that of Taquari, in the south ([@Fig:taquari]), establish simple façade
 designs that let one guess the single room layout behind them.
 
-![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](figures/07.jpg){#fig:taquari}
+![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](07.jpg){#fig:taquari}
 
 Centralised territorial planning in Portugal and Brazil comes to a
 sudden halt at the death of D. José I in 1777, not to resume for almost
@@ -362,12 +384,12 @@ around a main square facing the river.
 
 ![Aracaju, Brazil. Design by Sebastião Basílio Pirro, 1854. Plan
 (detail) by Francisco Pereira da Silva,
-1857](figures/08.jpg){#fig:aracaju}
+1857](08.jpg){#fig:aracaju}
 
 # House types and fringe belt development #
 
 The mid nineteenth century urban growth of Rio de Janeiro also shows
-evidence of the persistance of traditional modules. A large fringe belt
+evidence of the persistence of traditional modules. A large fringe belt
 of public land, the *rossio*, west of the city centre is developed
 during the first half of the nineteenth century according to these
 modules: its streets are 25, 30, and 100 p. in breadth, and blocks are
@@ -394,7 +416,7 @@ with the resilience of the 20 and 25 p. lots on the former *rossio*.
 thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro
 and rua do Sabão) and 25 p. street (cross street), blocks mostly
 subdivided into 20 p. lots. Detail from Edward Gotto's plan,
-1871](figures/09.jpg){#fig:gotto}
+1871](09.jpg){#fig:gotto}
 
 Haussmanian *percées* by the federal government during
 the first half of the twentieth century end up opening several stretches
@@ -413,7 +435,7 @@ independent structures side by side, rather than one large building
 between 1903 and 1908 often preserve the side hallway plan type
 ([@Fig:saopedro]; compare with [@fig:plans]).
 
-![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](figures/10.jpg){#fig:saopedro}
+![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](10.jpg){#fig:saopedro}
 
 # Effects of metrification on lot frontages #
 
@@ -430,7 +452,7 @@ rua do Almada, a new thoroughfare opened in 1761 but only developed much
 later, on the other hand, lots are standardised at 5 metres wide
 ([@Fig:almada]).
 
-![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](figures/11.png){#fig:almada}
+![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](11.png){#fig:almada}
 
 Metrification and the ensuing drive for ever more comprehensive building
 regulations are also at play in early twentieth century São Paulo,
@@ -443,7 +465,7 @@ inconvenient) designs where the side hallway becomes an open court; only
 later do actual side setbacks become common, requiring wider lots
 ([@Fig:bentofreitas]).
 
-![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](figures/12.png){#fig:bentofreitas}
+![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](12.png){#fig:bentofreitas}
 
 Even as the example of São Paulo contributes to the dissemination of
 side yard houses throughout Brazil in the early twentieth century,
@@ -465,25 +487,30 @@ study of such houses, however, these planned dwellings demonstrate an
 understanding of the long typological history of Portuguese houses, and
 a conscious effort to adapt it to modern urban principles.
 
-![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](figures/13.png){#fig:entroncamento}
+![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](13.png){#fig:entroncamento}
 
 The increasing popularity of garden city principles as well as a
 tendency to round up metric dimensions to 10 metre frontages cause the
 ultimate break down of this process. In the 1960s, the widespread use of
-10-metre frontages encroaches even on historic towns such as Ouro Preto.
-Nevertheless, the damaging effect of this transformation on the
-character of traditional urban areas is not noticed by historic
-preservationists until much later, in the 1980s [@motta:1987sphan22,
-114]. By then, the exponential urban growth of the post-war era had
-already caused major loss of character in such sites.
+10-metre frontages encroaches even on historic towns such as Ouro Preto
+([@Fig:op-santacasa]). Nevertheless, the damaging effect of this
+transformation on the character of traditional urban areas is not
+noticed by historic preservationists until much later, in the 1980s
+[@motta:1987sphan22, 114]. By then, the exponential urban growth of the
+post-war era had already caused major loss of character in such sites.
+
+![Infill subdivision in Ouro Preto, Brazil, 1965. Top: pre-existing conditions; middle: planning application; bottom: as approved by the National Heritage Institute (Iphan). @motta:1987sphan22](14.png){#fig:op-santacasa}
 
 # Conclusion #
 
-Portuguese and Brazilian town building traditions remain sensibly stable
+This article surveyed the emergence and transformation of traditional
+urban and building patterns in Portugal and Brazil, singling out
+recurring measurements and modules.
+These town building traditions remain sensibly stable
 for nearly five centuries, from the early thirteenth to the mid
 eighteenth century. Even as the territorial policies of 'enlightened
-despotism' in Portugal impose new, centralised an monumental urban forms
-onto the landscape, these forms accommodate most of the existing
+despotism' in Portugal impose new, centralised and monumental urban
+forms onto the landscape, these forms accommodate most of the existing
 practices regarding lot dimensions and house types. A crisis in
 traditional patterns arises more sharply with the adoption of the metric
 system in Portugal and Brazil during the nineteenth century, followed by
@@ -491,6 +518,21 @@ the turn of the century positivist approach to comprehensive urban and
 building regulation. Still, elements of traditional building types
 persist well into the twentieth century, only to break down in the
 second half of that century.
+
+This kind of study relies mostly on planned new towns and large urban
+expansions, which show the interaction between top-down designs and
+bottom-up vernacular practice. Its most significant drawback is,
+therefore, its reliance on a centralised 'act of will' for evidence of
+the modularity of decentralised patterns.
+Urban infill and redevelopment can provide insights on the
+persistence of generic building types, but the constraints of the
+existing fabric and land ownership patterns are likely to supplant any
+explicit choice of dimensional modules. On the other hand, these same
+constraints foster the continued use of plan layouts adapted to the
+existing lot sizes. A larger and more detailed body of architectural
+documentation might shed light on the relationship between these
+constraints and the dimensional limits the traditional building types
+can reach.
 
 Customary measurement units play a significant part in the stabilisation
 of urban and building types. The *palmo* (hand) and especially its
@@ -507,27 +549,31 @@ century.
 The successive shocks of metrification and of positivist building
 regulations, in the mid to late nineteenth century, provoke conspicuous
 changes in urban and building morphology, as well as the eventual split
-of the Luso-Brazilian tradition into separate national trends.
-Nevertheless, traditional plan layouts provide cultural references and
-sought-after models for new projects well into the first half of the
+of the Portuguese-Brazilian tradition into two separate national trends.
+Even historic preservation has done little to stem the decline of
+traditions, not the least due to the prevailing emphasis, in
+preservation theory and practice throughout the twentieth century, on
+upholding the fatalist distinction between 'original' and 'addition'
+rather than on protecting the continuous *process* giving rise to
+traditional urban areas.
+Despite this loss, traditional plan layouts continue to provide cultural
+references and models for new projects well into the first half of the
 twentieth century. The spatial efficiency and functional flexibility of
 such types as the townhouse, endowed since the late 1800s with a side
-yard, and the foursquare cell house, have hardly been supplanted by more
-recent types of social housing.
+yard, and the foursquare cell house, compare favourably to recent types
+of housing and urban development.
 
-The study of modules in urban and building development thus evidences
-the resilience of morphological patterns and trade practices through
-time. Its most significant limitation is its reliance either on new
-towns being founded, or on the occurrence of large scale suburban
-extensions. Urban infill and redevelopment can provide insights on the
-persistence of generic building types, but the constraints of the
-existing fabric and land ownership patterns are likely to supplant any
-explicit choice of dimensional modules. On the other hand, these same
-constraints foster the continued use of plan layouts adapted to the
-existing lot sizes. A larger and more detailed body of architectural
-documentation might shed light on the relationship between these
-constraints and the dimensional limits the traditional building types
-can reach.
+The long-term stability of Portuguese building modules is a case that
+vindicates, in our age so fond of 'microhistory', the importance
+ascribed to intrahistory by Chueca Goitia and Braudel. Yet its value
+also reaches beyond the domain of the historian's craft: it is a
+statement on the importance of continuity to design practice.
+The study of modules in urban and building development shows the
+resilience of morphological patterns and professional practices through
+time. Standardised street widths, lot sizes, and building types are
+valuable evidence of cumulative problem solving; aimless experimentation
+and constant starting over from scratch, by contrast, have resulted in
+so many failed architectural and urban projects.
 
 # References #
 

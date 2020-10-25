@@ -194,21 +194,12 @@ urban districts---each one a 'block of blocks', as it were, according to
 Orr[^1]---that are able to support diverse uses and social classes
 within relatively small areas.
 
-:::::::::::::::::::::::::::::::::::::::::: {#fig:highstreet .subfigures}
-![Initial development along high street](01a.png){#fig:highstreetA width=33%}
-
-![Second high street and cross streets](01b.png){#fig:highstreetB width=33%}
-
-![Urban development on cross streets](01c.png){#fig:highstreetC width=33%}
-
-![Formation of back streets along rear lot lines](01d.png){#fig:highstreetD}
-
-![Development along back streets and creation of alleys](01e.png){#fig:highstreetE}
-
-![Spindle variant to the high street model](01f.png){#fig:highstreetF}
-
-Conceptual model of the development of a Portuguese high street village. Author's drawings, after @panerai:2012analyse and @fernandes:2014fundacao
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Conceptual model of the development of a Portuguese high street
+village. Left to right: initial development along high street; secondary
+streets and cross streets; opening of back streets along rear lot lines;
+development along back streets and opening of alleys. Author's drawing,
+after @panerai:2012analyse and
+@fernandes:2014fundacao](01.png){#fig:highstreet}
 
 Alongside the 'organic' high street village type developing throughout
 Portuguese and Brazilian history, three major episodes of centrally
@@ -287,13 +278,9 @@ cells, up to 30 p. in length. The most common plan types for a 20 to
 large rooms at the front and back, with a string of small alcoves in
 between, accessed from a side hallway ([@Fig:plans]).
 
-::::::::::::::::::::::::::::::::::::::::::::::: {#fig:plans .subfigures}
-![Enfilade and foursquare cell type](04a.png){#fig:plansA}
-
-![Centre or side hallway type](04b.png){#fig:plansB}
-
-Two traditional Portuguese house types. Author's drawing
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Mediterranean cell house generating two traditional house types. Top:
+rural and suburban enfilade and foursquare houses; bottom: urban centre
+and side hall townhouses. Author's drawing](04.png){#fig:plans}
 
 Relatively wide and shallow lots 30 p. wide by 60 p. deep are a
 particular standard of rural subdivision in Portugal, known as *chão*
@@ -378,7 +365,7 @@ Portuguese tradition. Royal and imperial new towns in Brazil, such as
 Niterói (1819) and Petrópolis (1843), evidence the continued use of
 eighteenth century military engineering principles, with strictly
 geometric layouts. As late as the 1850s, two new provincial capitals in
-Brazil, Teresina and Aracaju (@Fig:aracaju]), are planned using the
+Brazil, Teresina and Aracaju ([@Fig:aracaju]), are planned using the
 eighteenth century module of 60 p. wide streets forming a gridiron
 around a main square facing the river.
 

@@ -5,8 +5,9 @@ vpath %.yaml .:spec:_data
 vpath default.% lib
 
 article.docx : article.md biblio.bib docx.yaml | _csl
-	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		pandoc/crossref:2.10.1 \
+	docker run --user `id -u`:`id -g` \
+		-v "`pwd`:/data" \
+		pandoc/crossref:2.11.0.4 \
 		$< -d docx.yaml -o $@
 
 _csl :

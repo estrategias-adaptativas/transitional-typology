@@ -3,11 +3,9 @@ to              : 'docx'
 fail-if-warnings: False
 file-scope      : True
 standalone      : True
-toc             : False
-number-sections : False
 resource-path:
 - .
 - figures
 filters:
 - pandoc-crossref
-- pandoc-citeproc
+- citeproc

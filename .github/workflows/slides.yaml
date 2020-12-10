@@ -1,0 +1,44 @@
+name: Slides
+on:
+  pull_request:
+  push:
+    branches: [ master ]
+
+jobs:
+  pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: docker://pandoc/crossref:2.11.2
+        with:
+          args: -o index.html -d revealjs.yaml _slides.md
+      - uses: actions/upload-artifact@v2
+        with:
+          name: slides
+          path: 'index.html'
+  gh-pages:
+    env:
+      commit_message: ${{ github.event.head_commit.message }}
+    runs-on: ubuntu-latest
+    needs: pandoc
+    if: github.event_name == 'push' && github.repository == 'dmcpatrimonio/transitional-typology'
+    steps:
+    - name: Checkout gh-pages branch
+      uses: actions/checkout@v2
+      with:
+        ref : 'gh-pages'
+    - run: mkdir -p ${{ github.workspace }}/slides
+    - name: Update slides
+      uses: actions/download-artifact@v2
+      with:
+        name: slides
+        path: ${{ github.workspace }}/slides/
+    - name: Commit changes to gh-pages branch
+      run: |
+        cd ${{ github.workspace }}
+        git config --local user.email "runner@github.com"
+        git config --local user.name  "Automated build"
+        git add .
+        git commit -m "${{ env.commit_message }}" -a || git status
+        git pull --ff-only
+        git push

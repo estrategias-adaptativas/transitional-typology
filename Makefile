@@ -9,7 +9,8 @@ article.docx : article.md biblio.bib docx.yaml | _csl
 		-v "`pwd`:/data" pandoc/crossref:2.11.0.4 \
 		$< -d docx.yaml -o $@
 
-_site/slides/index.html : slides.md | _site
+_site/slides/index.html : _slides.md | _site
+	@mkdir -p _site/slides
 	docker run --user `id -u`:`id -g` \
 		-v "`pwd`:/data" pandoc/crossref:2.11.0.4 \
 		-o $@ -d revealjs.yaml $<

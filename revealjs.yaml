@@ -4,4 +4,5 @@ fail-if-warnings: True
 file-scope      : True
 standalone      : True
 toc             : True
-theme           : beige
+variables:
+  theme         : beige

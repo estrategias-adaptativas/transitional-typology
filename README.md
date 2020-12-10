@@ -1,6 +1,6 @@
 # Vernacular Patterns in Portugal and Brazil #
 
-[![Slides](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Slides/badge.svg)](slides/)
+[![Slides](https://github.com/dmcpatrimonio/transitional-typology/workflows/Slides/badge.svg)](slides/)
 
 ## Evolution and Adaptations ##
 

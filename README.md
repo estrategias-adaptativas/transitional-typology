@@ -1,6 +1,5 @@
 # Vernacular Patterns in Portugal and Brazil #
 
-![Index](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Index/badge.svg)
 [![Slides](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Slides/badge.svg)](slides/)
 
 ## Evolution and Adaptations ##

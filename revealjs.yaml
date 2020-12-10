@@ -1,0 +1,7 @@
+from            : markdown
+to              : revealjs
+fail-if-warnings: True
+file-scope      : True
+standalone      : True
+toc             : True
+theme           : beige

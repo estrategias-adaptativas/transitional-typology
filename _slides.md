@@ -55,6 +55,8 @@ layout  : page
 
 ## {data-background-image="../figures/02a.png"}
 
+## {data-background-image="../figures/05.png"}
+
 ## {data-background-image="../figures/06.jpg"}
 
 ## {data-background-image="../figures/07.jpg"}

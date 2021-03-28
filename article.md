@@ -8,6 +8,8 @@ lang        : "en-GB"
 bibliography: "biblio.bib"
 ccsLabelSep : ' – '
 csl         : "_csl/chicago-author-date.csl"
+subfigGrid  : true
+subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
 abstract: |
   Traditional towns in Portugal and Brazil have evolved, since the
   thirteenth century, a finely tuned coordination between, on the one
@@ -179,12 +181,13 @@ type is the linear village around a high street [@panerai:2012analyse].
 In Fernandes's reconstruction of the ideal type, the village coalesces
 around a focal point or landmark, such as a chapel, a market, or the
 access to a castle [@fernandes:2014fundacao]. In the high street scheme
-([@Fig:highstreet]), the very deep lots around the main thoroughfare
-(*rua da frente*) have secondary frontages that establish a back street
-(*rua de trás*) on either side, as described by Teixeira
-[-@teixeira:2012forma]. A sequence of cross streets develops to link
-these parallel roads, forming large urban blocks. These blocks are
-eventually broken up by alleys (*travessas*) linking the cross streets,
+(@Fig:casdevideA), the very deep lots around the main thoroughfare
+(*rua da frente*) and secondary axes (@Fig:casdevideB) have secondary
+frontages that establish a back street (*rua de trás*) on either side,
+as described by Teixeira [-@teixeira:2012forma]. A sequence of cross
+streets develops to link these parallel roads, forming large urban
+blocks (@Fig:casdevideC). These blocks are eventually broken up by
+alleys (*travessas*) linking the cross streets (@Fig:casdevideD),
 enabling the mature, dense build-up of the town core
 [@fernandes:2014fundacao]. Since most Portuguese urban areas originate
 in hill towns, the high street often takes the form of a spindle, with a
@@ -194,12 +197,15 @@ urban districts---each one a 'block of blocks', as it were, according to
 Orr[^1]---that are able to support diverse uses and social classes
 within relatively small areas.
 
-![Conceptual model of the development of a Portuguese high street
-village. Left to right: initial development along high street; secondary
-streets and cross streets; opening of back streets along rear lot lines;
-development along back streets and opening of alleys. Author's drawing,
-after @panerai:2012analyse and
-@fernandes:2014fundacao](01.png){#fig:highstreet}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:casdevide}
+![initial development along high street, 13^th^ century](https://upload.wikimedia.org/wikipedia/commons/7/7e/Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA width=45%}
+![opening of secondary streets and transversal links, 14^th^ century](https://upload.wikimedia.org/wikipedia/commons/a/aa/Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB width=45%}
+
+![development along back alleys and perimetre blocks, 15^th^ century](https://upload.wikimedia.org/wikipedia/commons/b/b1/Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC} 
+![breaking up of perimetre blocks with alleys, 16^th^ century or earlier](https://upload.wikimedia.org/wikipedia/commons/e/e2/Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD}
+
+Reconstructed urban plan of Castelo de Vide, Portugal
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Alongside the 'organic' high street village type developing throughout
 Portuguese and Brazilian history, three major episodes of centrally

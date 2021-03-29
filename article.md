@@ -255,7 +255,7 @@ expediency over a punctilious observance of orthogonality, and the edges
 of the town are required to bend to the military requirements of the
 fortifications adjusted to the terrain.
 
-![Reconstructed town plan of Caminha, thirteenth century. [@trindade:2009urbanismo, 157]](02.png){#fig:caminha}
+![Reconstructed foundation town plan of Caminha, thirteenth century, after [@trindade:2009urbanismo, 157]](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
 
 The *vila nova* layout establishes and observes certain geometric
 procedures to ensure regularity and the equal distribution of urban
@@ -270,7 +270,7 @@ design are 15 p.-wide streets (3.4 metres) and lots 25 p. (5.6 metres)
 wide by 60 to 75 p. (13.5 to 16.9 metres) deep [@trindade:2009urbanismo,
 323-328].
 
-![Reconstructed modular platting of Caminha, thirteenth century. [@trindade:2009urbanismo, 328]](03.png){#fig:caminha-modules}
+![Reconstructed modular platting of Caminha, thirteenth century, after [@trindade:2009urbanismo, 328]. 1 palmo = 22.5 centimetres and 1 vara = 10 palmos](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
 
 Other commonly used lot frontage dimensions are 20 p. (4.5 metres) and
 30 p. (6.75 metres). This range of variations offers lot sizes

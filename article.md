@@ -198,11 +198,11 @@ Orr[^1]---that are able to support diverse uses and social classes
 within relatively small areas.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:casdevide}
-![initial development along high street, 13^th^ century](https://upload.wikimedia.org/wikipedia/commons/7/7e/Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA width=45%}
-![opening of secondary streets and transversal links, 14^th^ century](https://upload.wikimedia.org/wikipedia/commons/a/aa/Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB width=45%}
+![initial development along high street, before thirteenth century](https://upload.wikimedia.org/wikipedia/commons/7/7e/Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA width=45%}
+![opening of secondary streets and transversal links, late thirteenth century](https://upload.wikimedia.org/wikipedia/commons/a/aa/Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB width=45%}
 
-![development along back alleys and perimetre blocks, 15^th^ century](https://upload.wikimedia.org/wikipedia/commons/b/b1/Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC} 
-![breaking up of perimetre blocks with alleys, 16^th^ century or earlier](https://upload.wikimedia.org/wikipedia/commons/e/e2/Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD}
+![development along back alleys and perimetre blocks, fourteenth century](https://upload.wikimedia.org/wikipedia/commons/b/b1/Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC} 
+![breaking up of perimetre blocks with alleys, fifteenth century or earlier](https://upload.wikimedia.org/wikipedia/commons/e/e2/Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD}
 
 Reconstructed urban plan of Castelo de Vide, Portugal
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -249,13 +249,13 @@ The whole is encircled by a wall. As in many *bastides*, the parish
 church is sited away from the central crossing and placed near one of
 the gates, where it can be reached easily from the surrounding
 countryside. The market square and town hall are located at the opposite
-end of the high street ([@Fig:caminha]). Though there is a geometric
+end of the high street (@Fig:caminha). Though there is a geometric
 principle behind the plan, its implementation is clearly dictated by
 expediency over a punctilious observance of orthogonality, and the edges
 of the town are required to bend to the military requirements of the
 fortifications adjusted to the terrain.
 
-![Reconstructed foundation town plan of Caminha, thirteenth century, after [@trindade:2009urbanismo, 157]](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
+![Reconstructed foundation town plan of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 157]](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
 
 The *vila nova* layout establishes and observes certain geometric
 procedures to ensure regularity and the equal distribution of urban
@@ -265,12 +265,12 @@ or *palmo* (abbreviated to 'p.'), equal to about 22.5 centimetres. 5 p.
 equal one Portuguese yard or *vara*, thus measuring 1.12 metre. The
 *vara* seems, in fact, to be the least multiple effectively used in most
 urban plans. At Caminha, according to the reconstruction proposed by
-Trindade ([@Fig:caminha-modules]), the basic elements of the urban
+Trindade (@Fig:caminha-modules), the basic elements of the urban
 design are 15 p.-wide streets (3.4 metres) and lots 25 p. (5.6 metres)
 wide by 60 to 75 p. (13.5 to 16.9 metres) deep [@trindade:2009urbanismo,
 323-328].
 
-![Reconstructed modular platting of Caminha, thirteenth century, after [@trindade:2009urbanismo, 328]. 1 palmo = 22.5 centimetres and 1 vara = 10 palmos](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
+![Reconstructed modular platting of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 328]. Units: 1 palmo = 22.5 centimetres and 1 vara = 5 palmos = 1.125 metre](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
 
 Other commonly used lot frontage dimensions are 20 p. (4.5 metres) and
 30 p. (6.75 metres). This range of variations offers lot sizes
@@ -282,11 +282,9 @@ cells, up to 30 p. in length. The most common plan types for a 20 to
 25 p. wide lot are either simple dwellings or shops with a longitudinal
 *enfilade* of up to three cells, or a differentiated arrangement of two
 large rooms at the front and back, with a string of small alcoves in
-between, accessed from a side hallway ([@Fig:plans]).
+between, accessed from a side hallway (@Fig:plans).
 
-![Mediterranean cell house generating two traditional house types. Top:
-rural and suburban enfilade and foursquare houses; bottom: urban centre
-and side hall townhouses. Author's drawing](04.png){#fig:plans}
+![Mediterranean cell house generating traditional house types common in Southern Portugal and Brazil. Middle left: basic cell layouts; top: suburban foursquare and rural farmhouse; bottom: urban narrow house and side corridor townhouses. Author's drawing](https://upload.wikimedia.org/wikipedia/commons/9/9e/Southern_Portuguese_cell_houses.png){#fig:plans}
 
 Relatively wide and shallow lots 30 p. wide by 60 p. deep are a
 particular standard of rural subdivision in Portugal, known as *chão*
@@ -295,10 +293,12 @@ suburban expansion of cities, such as in Lisbon's sixteenth century
 *extramuros* development known as the *bairro Alto* [@carita:1994bairro,
 47-48]. Two 30 × 60 p. lots can be conveniently subdivided into three
 20 p. lots for low-income housing or grouped to support a courtyard
-block of flats or an aristocratic house; the latter case
-is attested in the bairro Alto during the eighteenth and nineteenth
+block of flats or an aristocratic house (@fig:chao); the latter case is
+attested in the bairro Alto during the eighteenth and nineteenth
 centuries, whereas the former occurs in nineteenth century suburban
-subdivisions in Rio de Janeiro (Brazil).
+subdivisions in Rio de Janeiro, Brazil.
+
+![Chão](){#fig:chao}
 
 # Transitional urban patterns #
 

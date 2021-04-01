@@ -8,6 +8,8 @@ lang        : "en-GB"
 bibliography: "biblio.bib"
 ccsLabelSep : ' – '
 csl         : "_csl/chicago-author-date.csl"
+subfigGrid  : true
+subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
 abstract: |
   Traditional towns in Portugal and Brazil have evolved, since the
   thirteenth century, a finely tuned coordination between, on the one
@@ -179,12 +181,13 @@ type is the linear village around a high street [@panerai:2012analyse].
 In Fernandes's reconstruction of the ideal type, the village coalesces
 around a focal point or landmark, such as a chapel, a market, or the
 access to a castle [@fernandes:2014fundacao]. In the high street scheme
-([@Fig:highstreet]), the very deep lots around the main thoroughfare
-(*rua da frente*) have secondary frontages that establish a back street
-(*rua de trás*) on either side, as described by Teixeira
-[-@teixeira:2012forma]. A sequence of cross streets develops to link
-these parallel roads, forming large urban blocks. These blocks are
-eventually broken up by alleys (*travessas*) linking the cross streets,
+(@Fig:casdevideA), the very deep lots around the main thoroughfare
+(*rua da frente*) and secondary axes (@Fig:casdevideB) have secondary
+frontages that establish a back street (*rua de trás*) on either side,
+as described by Teixeira [-@teixeira:2012forma]. A sequence of cross
+streets develops to link these parallel roads, forming large urban
+blocks (@Fig:casdevideC). These blocks are eventually broken up by
+alleys (*travessas*) linking the cross streets (@Fig:casdevideD),
 enabling the mature, dense build-up of the town core
 [@fernandes:2014fundacao]. Since most Portuguese urban areas originate
 in hill towns, the high street often takes the form of a spindle, with a
@@ -194,12 +197,15 @@ urban districts---each one a 'block of blocks', as it were, according to
 Orr[^1]---that are able to support diverse uses and social classes
 within relatively small areas.
 
-![Conceptual model of the development of a Portuguese high street
-village. Left to right: initial development along high street; secondary
-streets and cross streets; opening of back streets along rear lot lines;
-development along back streets and opening of alleys. Author's drawing,
-after @panerai:2012analyse and
-@fernandes:2014fundacao](01.png){#fig:highstreet}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:casdevide}
+![initial development along high street, before thirteenth century](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA width=45%}
+![opening of secondary streets and transversal links, late thirteenth century](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB width=45%}
+
+![development along back alleys and perimetre blocks, fourteenth century](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC} 
+![breaking up of perimetre blocks with alleys, fifteenth century or earlier](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD}
+
+Reconstructed urban plan of Castelo de Vide, Portugal
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Alongside the 'organic' high street village type developing throughout
 Portuguese and Brazilian history, three major episodes of centrally
@@ -243,13 +249,13 @@ The whole is encircled by a wall. As in many *bastides*, the parish
 church is sited away from the central crossing and placed near one of
 the gates, where it can be reached easily from the surrounding
 countryside. The market square and town hall are located at the opposite
-end of the high street ([@Fig:caminha]). Though there is a geometric
+end of the high street (@Fig:caminha). Though there is a geometric
 principle behind the plan, its implementation is clearly dictated by
 expediency over a punctilious observance of orthogonality, and the edges
 of the town are required to bend to the military requirements of the
 fortifications adjusted to the terrain.
 
-![Reconstructed town plan of Caminha, thirteenth century. [@trindade:2009urbanismo, 157]](02.png){#fig:caminha}
+![Reconstructed foundation town plan of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 157]](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
 
 The *vila nova* layout establishes and observes certain geometric
 procedures to ensure regularity and the equal distribution of urban
@@ -259,12 +265,12 @@ or *palmo* (abbreviated to 'p.'), equal to about 22.5 centimetres. 5 p.
 equal one Portuguese yard or *vara*, thus measuring 1.12 metre. The
 *vara* seems, in fact, to be the least multiple effectively used in most
 urban plans. At Caminha, according to the reconstruction proposed by
-Trindade ([@Fig:caminha-modules]), the basic elements of the urban
+Trindade (@Fig:caminha-modules), the basic elements of the urban
 design are 15 p.-wide streets (3.4 metres) and lots 25 p. (5.6 metres)
 wide by 60 to 75 p. (13.5 to 16.9 metres) deep [@trindade:2009urbanismo,
 323-328].
 
-![Reconstructed modular platting of Caminha, thirteenth century. [@trindade:2009urbanismo, 328]](03.png){#fig:caminha-modules}
+![Reconstructed modular platting of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 328]. Units: 1 palmo = 22.5 centimetres and 1 vara = 5 palmos = 1.125 metre](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
 
 Other commonly used lot frontage dimensions are 20 p. (4.5 metres) and
 30 p. (6.75 metres). This range of variations offers lot sizes
@@ -276,11 +282,9 @@ cells, up to 30 p. in length. The most common plan types for a 20 to
 25 p. wide lot are either simple dwellings or shops with a longitudinal
 *enfilade* of up to three cells, or a differentiated arrangement of two
 large rooms at the front and back, with a string of small alcoves in
-between, accessed from a side hallway ([@Fig:plans]).
+between, accessed from a side hallway (@Fig:plans).
 
-![Mediterranean cell house generating two traditional house types. Top:
-rural and suburban enfilade and foursquare houses; bottom: urban centre
-and side hall townhouses. Author's drawing](04.png){#fig:plans}
+![Mediterranean cell house generating traditional house types common in Southern Portugal and Brazil. Middle left: basic cell layouts; top: suburban foursquare and rural farmhouse; bottom: urban narrow house and side corridor townhouses. Author's drawing](https://upload.wikimedia.org/wikipedia/commons/9/9e/Southern_Portuguese_cell_houses.png){#fig:plans}
 
 Relatively wide and shallow lots 30 p. wide by 60 p. deep are a
 particular standard of rural subdivision in Portugal, known as *chão*
@@ -289,10 +293,12 @@ suburban expansion of cities, such as in Lisbon's sixteenth century
 *extramuros* development known as the *bairro Alto* [@carita:1994bairro,
 47-48]. Two 30 × 60 p. lots can be conveniently subdivided into three
 20 p. lots for low-income housing or grouped to support a courtyard
-block of flats or an aristocratic house; the latter case
-is attested in the bairro Alto during the eighteenth and nineteenth
+block of flats or an aristocratic house (@fig:chao); the latter case is
+attested in the bairro Alto during the eighteenth and nineteenth
 centuries, whereas the former occurs in nineteenth century suburban
-subdivisions in Rio de Janeiro (Brazil).
+subdivisions in Rio de Janeiro, Brazil.
+
+![Bairro Alto, Lisbon, developed from the sixteenth century. Yellow: vestiges of the original 30 × 60 p. lots from the sixteenth century development; dark red: former aristocratic palaces and civic buildings; pink: urban fabric that cannot be reconstructed to the original sixteenth century module](https://upload.wikimedia.org/wikipedia/commons/0/09/Bairro_alto_lot_modules.png){#fig:chao}
 
 # Transitional urban patterns #
 
@@ -321,7 +327,7 @@ a point to adhere strictly to the gridiron plan: it helps that the town
 is intended as a residential garrison and fishing harbour, while the
 actual fortifications are sited on higher ground.
 
-![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](06.jpg){#fig:vilareal}
+![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](https://i.pinimg.com/originals/27/a8/ca/27a8ca3ae165cbbddf812f116a067e37.jpg){#fig:vilareal}
 
 To facilitate the movement of troops and goods, but also to highlight
 the clarity and monumentality of the plan, the streets are much broader
@@ -355,7 +361,7 @@ surviving drawings for new outposts in the Brazilian frontiers, such as
 that of Taquari, in the south ([@Fig:taquari]), establish simple façade
 designs that let one guess the single room layout behind them.
 
-![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](07.jpg){#fig:taquari}
+![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](https://i.pinimg.com/originals/f7/05/94/f7059414bf7196e4fee5e21f8bd14da8.jpg){#fig:taquari}
 
 Centralised territorial planning in Portugal and Brazil comes to a
 sudden halt at the death of D. José I in 1777, not to resume for almost
@@ -369,9 +375,7 @@ Brazil, Teresina and Aracaju ([@Fig:aracaju]), are planned using the
 eighteenth century module of 60 p. wide streets forming a gridiron
 around a main square facing the river.
 
-![Aracaju, Brazil. Design by Sebastião Basílio Pirro, 1854. Plan
-(detail) by Francisco Pereira da Silva,
-1857](08.jpg){#fig:aracaju}
+![Aracaju, Brazil. Design by Sebastião Basílio Pirro, 1854. Plan (detail) by Francisco Pereira da Silva, 1857. National Library of Brazil, Rio de Janeiro](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aracaju_planta_detalhe_de_Cart525838.jpg/962px-Aracaju_planta_detalhe_de_Cart525838.jpg){#fig:aracaju}
 
 # House types and fringe belt development #
 
@@ -399,11 +403,7 @@ overrun by demand for bulkier apartment or commercial buildings,
 however. This short life span of the extremely narrow lots contrasts
 with the resilience of the 20 and 25 p. lots on the former *rossio*.
 
-![Urban development on the former *rossio* of Rio de Janeiro: 100 p.
-thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro
-and rua do Sabão) and 25 p. street (cross street), blocks mostly
-subdivided into 20 p. lots. Detail from Edward Gotto's plan,
-1871](09.jpg){#fig:gotto}
+![Urban development on the former *rossio* of Rio de Janeiro: 100 p. thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro and rua do Sabão) and 25 p. street (cross street), blocks mostly subdivided into 20 p. lots. Detail from Edward Gotto's plan, 1871](https://upload.wikimedia.org/wikipedia/commons/7/7b/Rua_de_S_Pedro_from_the_Gotto_Plan_of_Rio_de_Janeiro_1871_stitched.jpg){#fig:gotto}
 
 Haussmanian *percées* by the federal government during
 the first half of the twentieth century end up opening several stretches
@@ -422,7 +422,7 @@ independent structures side by side, rather than one large building
 between 1903 and 1908 often preserve the side hallway plan type
 ([@Fig:saopedro]; compare with [@fig:plans]).
 
-![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](10.jpg){#fig:saopedro}
+![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](https://upload.wikimedia.org/wikipedia/commons/0/05/Building_on_rua_de_S_Pedro_Rio_de_Janeiro_1903.jpg){#fig:saopedro}
 
 # Effects of metrification on lot frontages #
 
@@ -439,7 +439,7 @@ rua do Almada, a new thoroughfare opened in 1761 but only developed much
 later, on the other hand, lots are standardised at 5 metres wide
 ([@Fig:almada]).
 
-![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](11.png){#fig:almada}
+![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](https://upload.wikimedia.org/wikipedia/commons/5/51/Lot_modules_in_Oporto.png){#fig:almada}
 
 Metrification and the ensuing drive for ever more comprehensive building
 regulations are also at play in early twentieth century São Paulo,
@@ -452,7 +452,7 @@ inconvenient) designs where the side hallway becomes an open court; only
 later do actual side setbacks become common, requiring wider lots
 ([@Fig:bentofreitas]).
 
-![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](12.png){#fig:bentofreitas}
+![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png/607px-Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png){#fig:bentofreitas}
 
 Even as the example of São Paulo contributes to the dissemination of
 side yard houses throughout Brazil in the early twentieth century,
@@ -474,7 +474,7 @@ study of such houses, however, these planned dwellings demonstrate an
 understanding of the long typological history of Portuguese houses, and
 a conscious effort to adapt it to modern urban principles.
 
-![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](13.png){#fig:entroncamento}
+![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](https://i.pinimg.com/originals/32/3c/5a/323c5aaeb43fab8b2c148867baa99102.png){#fig:entroncamento}
 
 The increasing popularity of garden city principles as well as a
 tendency to round up metric dimensions to 10 metre frontages cause the
@@ -486,7 +486,7 @@ noticed by historic preservationists until much later, in the 1980s
 [@motta:1987sphan22, 114]. By then, the exponential urban growth of the
 post-war era had already caused major loss of character in such sites.
 
-![Infill subdivision in Ouro Preto, Brazil, 1965. Top: pre-existing conditions; middle: planning application; bottom: as approved by the National Heritage Institute (Iphan). @motta:1987sphan22](14.png){#fig:op-santacasa}
+![Unexecuted infill subdivision project in the Alto das Cabeças neighbourhood, Ouro Preto, Brazil, 1965. Left: pre-existing conditions; middle: planning application; right: as approved by the National Heritage Institute (Iphan). Redrawn in @salgado:2010ouro after @motta:1987sphan22](https://i.pinimg.com/originals/28/6b/08/286b08420d851e388ac3fd5ada17248c.png){#fig:op-santacasa}
 
 # Conclusion #
 

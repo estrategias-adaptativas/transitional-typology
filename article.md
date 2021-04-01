@@ -198,11 +198,11 @@ Orr[^1]---that are able to support diverse uses and social classes
 within relatively small areas.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:casdevide}
-![initial development along high street, before thirteenth century](https://upload.wikimedia.org/wikipedia/commons/7/7e/Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA width=45%}
-![opening of secondary streets and transversal links, late thirteenth century](https://upload.wikimedia.org/wikipedia/commons/a/aa/Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB width=45%}
+![initial development along high street, before thirteenth century](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA width=45%}
+![opening of secondary streets and transversal links, late thirteenth century](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB width=45%}
 
-![development along back alleys and perimetre blocks, fourteenth century](https://upload.wikimedia.org/wikipedia/commons/b/b1/Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC} 
-![breaking up of perimetre blocks with alleys, fifteenth century or earlier](https://upload.wikimedia.org/wikipedia/commons/e/e2/Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD}
+![development along back alleys and perimetre blocks, fourteenth century](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC} 
+![breaking up of perimetre blocks with alleys, fifteenth century or earlier](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD}
 
 Reconstructed urban plan of Castelo de Vide, Portugal
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -298,7 +298,7 @@ attested in the bairro Alto during the eighteenth and nineteenth
 centuries, whereas the former occurs in nineteenth century suburban
 subdivisions in Rio de Janeiro, Brazil.
 
-![Chão](){#fig:chao}
+![Bairro Alto, Lisbon, developed from the sixteenth century. Yellow: vestiges of the original 30 × 60 p. lots from the sixteenth century development; dark red: former aristocratic palaces and civic buildings; pink: urban fabric that cannot be reconstructed to the original sixteenth century module](https://upload.wikimedia.org/wikipedia/commons/0/09/Bairro_alto_lot_modules.png){#fig:chao}
 
 # Transitional urban patterns #
 
@@ -327,7 +327,7 @@ a point to adhere strictly to the gridiron plan: it helps that the town
 is intended as a residential garrison and fishing harbour, while the
 actual fortifications are sited on higher ground.
 
-![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](06.jpg){#fig:vilareal}
+![Plan of Vila Real de Santo António. Drawing by José Sande de Vasconcelos, 1774](https://i.pinimg.com/originals/27/a8/ca/27a8ca3ae165cbbddf812f116a067e37.jpg){#fig:vilareal}
 
 To facilitate the movement of troops and goods, but also to highlight
 the clarity and monumentality of the plan, the streets are much broader
@@ -361,7 +361,7 @@ surviving drawings for new outposts in the Brazilian frontiers, such as
 that of Taquari, in the south ([@Fig:taquari]), establish simple façade
 designs that let one guess the single room layout behind them.
 
-![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](07.jpg){#fig:taquari}
+![Plan of the garrison town of S. José on the Tabiquary river, now town of Taquari, Brazil, by Manoel Vieira Leão, c. 1777. Arquivo Histórico do Exército (Rio de Janeiro)](https://i.pinimg.com/originals/f7/05/94/f7059414bf7196e4fee5e21f8bd14da8.jpg){#fig:taquari}
 
 Centralised territorial planning in Portugal and Brazil comes to a
 sudden halt at the death of D. José I in 1777, not to resume for almost
@@ -375,9 +375,7 @@ Brazil, Teresina and Aracaju ([@Fig:aracaju]), are planned using the
 eighteenth century module of 60 p. wide streets forming a gridiron
 around a main square facing the river.
 
-![Aracaju, Brazil. Design by Sebastião Basílio Pirro, 1854. Plan
-(detail) by Francisco Pereira da Silva,
-1857](08.jpg){#fig:aracaju}
+![Aracaju, Brazil. Design by Sebastião Basílio Pirro, 1854. Plan (detail) by Francisco Pereira da Silva, 1857. National Library of Brazil, Rio de Janeiro](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aracaju_planta_detalhe_de_Cart525838.jpg/962px-Aracaju_planta_detalhe_de_Cart525838.jpg){#fig:aracaju}
 
 # House types and fringe belt development #
 
@@ -405,11 +403,7 @@ overrun by demand for bulkier apartment or commercial buildings,
 however. This short life span of the extremely narrow lots contrasts
 with the resilience of the 20 and 25 p. lots on the former *rossio*.
 
-![Urban development on the former *rossio* of Rio de Janeiro: 100 p.
-thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro
-and rua do Sabão) and 25 p. street (cross street), blocks mostly
-subdivided into 20 p. lots. Detail from Edward Gotto's plan,
-1871](09.jpg){#fig:gotto}
+![Urban development on the former *rossio* of Rio de Janeiro: 100 p. thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro and rua do Sabão) and 25 p. street (cross street), blocks mostly subdivided into 20 p. lots. Detail from Edward Gotto's plan, 1871](https://upload.wikimedia.org/wikipedia/commons/7/7b/Rua_de_S_Pedro_from_the_Gotto_Plan_of_Rio_de_Janeiro_1871_stitched.jpg){#fig:gotto}
 
 Haussmanian *percées* by the federal government during
 the first half of the twentieth century end up opening several stretches
@@ -428,7 +422,7 @@ independent structures side by side, rather than one large building
 between 1903 and 1908 often preserve the side hallway plan type
 ([@Fig:saopedro]; compare with [@fig:plans]).
 
-![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](10.jpg){#fig:saopedro}
+![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](https://upload.wikimedia.org/wikipedia/commons/0/05/Building_on_rua_de_S_Pedro_Rio_de_Janeiro_1903.jpg){#fig:saopedro}
 
 # Effects of metrification on lot frontages #
 
@@ -445,7 +439,7 @@ rua do Almada, a new thoroughfare opened in 1761 but only developed much
 later, on the other hand, lots are standardised at 5 metres wide
 ([@Fig:almada]).
 
-![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](11.png){#fig:almada}
+![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](https://upload.wikimedia.org/wikipedia/commons/5/51/Lot_modules_in_Oporto.png){#fig:almada}
 
 Metrification and the ensuing drive for ever more comprehensive building
 regulations are also at play in early twentieth century São Paulo,
@@ -458,7 +452,7 @@ inconvenient) designs where the side hallway becomes an open court; only
 later do actual side setbacks become common, requiring wider lots
 ([@Fig:bentofreitas]).
 
-![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](12.png){#fig:bentofreitas}
+![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png/607px-Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png){#fig:bentofreitas}
 
 Even as the example of São Paulo contributes to the dissemination of
 side yard houses throughout Brazil in the early twentieth century,
@@ -480,7 +474,7 @@ study of such houses, however, these planned dwellings demonstrate an
 understanding of the long typological history of Portuguese houses, and
 a conscious effort to adapt it to modern urban principles.
 
-![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](13.png){#fig:entroncamento}
+![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](https://i.pinimg.com/originals/32/3c/5a/323c5aaeb43fab8b2c148867baa99102.png){#fig:entroncamento}
 
 The increasing popularity of garden city principles as well as a
 tendency to round up metric dimensions to 10 metre frontages cause the
@@ -492,7 +486,7 @@ noticed by historic preservationists until much later, in the 1980s
 [@motta:1987sphan22, 114]. By then, the exponential urban growth of the
 post-war era had already caused major loss of character in such sites.
 
-![Infill subdivision in Ouro Preto, Brazil, 1965. Top: pre-existing conditions; middle: planning application; bottom: as approved by the National Heritage Institute (Iphan). @motta:1987sphan22](14.png){#fig:op-santacasa}
+![Unexecuted infill subdivision project in the Alto das Cabeças neighbourhood, Ouro Preto, Brazil, 1965. Left: pre-existing conditions; middle: planning application; right: as approved by the National Heritage Institute (Iphan). Redrawn in @salgado:2010ouro after @motta:1987sphan22](https://i.pinimg.com/originals/28/6b/08/286b08420d851e388ac3fd5ada17248c.png){#fig:op-santacasa}
 
 # Conclusion #
 

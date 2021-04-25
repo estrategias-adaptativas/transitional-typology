@@ -6,14 +6,14 @@ vpath default.% lib
 
 article.docx : article.md biblio.bib docx.yaml | _csl
 	docker run --user `id -u`:`id -g` \
-		-v "`pwd`:/data" pandoc/crossref:2.11.0.4 \
+		-v "`pwd`:/data" pandoc/crossref:2.12 \
 		$< -d docx.yaml -o $@
 
 _site/slides/index.html : revealjs.yaml _slides.md | _site
 	@mkdir -p _site/slides
 	docker run --user `id -u`:`id -g` \
-		-v "`pwd`:/data" pandoc/crossref:2.11.0.4 \
-		-o $@ -d $^
+		-v "`pwd`:/data" pandoc/crossref:2.12 \
+		-o $@ -d revealjs.yaml $<
 
 _site :
 	docker run -v "`pwd`:/srv/jekyll" \
@@ -21,7 +21,7 @@ _site :
 		"chmod 777 /srv/jekyll && jekyll build --future"
 
 _csl :
-	git clone https://github.com/citation-style-language/styles.git $@
+	git clone --depth=1 https://github.com/citation-style-language/styles.git $@
 
 serve : 
 	docker run -v "`pwd`:/srv/jekyll" \

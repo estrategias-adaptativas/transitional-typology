@@ -1,0 +1,4 @@
+lang: en-GB
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl"
+crossrefYaml: "_crossref.yaml"
+suppress-bibliography: false

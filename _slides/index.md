@@ -1,41 +1,29 @@
 ---
-title       : "Vernacular Patterns in Portugal and Brazil: Evolution and Adaptations"
+title       : "Vernacular Patterns in Portugal and Brazil"
+subtitle    : "Evolution and Adaptations"
 author      : Pedro P. Palazzo
-date        : 2021-10-15
-affiliation : >
-  Visiting scholar, Centre for Social Studies, University of Coimbra;
-  Associate professor, University of Brasilia School of Architecture and Urbanism
+date        : "Traditional Architecture Conference 2021"
 lang        : "en-GB"
-layout      : single
-bibliography: "_bibliography/references.bib"
-ccsLabelSep : ' – '
-csl         : "_csl/chicago-author-date.csl"
-subfigGrid  : true
-subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
-abstract: |
-  Traditional towns in Portugal and Brazil have evolved, since the
-  thirteenth century, a finely tuned coordination between, on the one
-  hand, modular dimensions for street widths and lot sizes, and on the
-  other, a typology of room shapes and distributions within houses.
-  Despite being well documented in urban history, this coordination was,
-  during the past century, often interpreted as contingent and as a
-  result of the limited material means of pre-industrial societies.
-  Nevertheless, the continued application and gradual adaptation of
-  these urban and architectural patterns throughout periods of
-  industrialization and economic development suggests they respond to
-  both long-lasting housing requirements and piecemeal urban growth.
-  This article surveys the persistence of urban and architectural
-  patterns up to the early twentieth century, showing their resilience in
-  addressing the requirements of modern housing and urbanisation.
-tags:
-- New towns
-- Traditional architecture
-- Procedural typology
-- Urban morphology
-- Resilience
+title-slide-attributes:
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2021/10/pt-castelo_vide-cidade_renascentista-1.jpg
 ---
 
 # Introduction #
+
+Traditional towns in Portugal and Brazil have evolved, since the
+thirteenth century, a finely tuned coordination between, on the one
+hand, modular dimensions for street widths and lot sizes, and on the
+other, a typology of room shapes and distributions within houses.
+Despite being well documented in urban history, this coordination was,
+during the past century, often interpreted as contingent and as a
+result of the limited material means of pre-industrial societies.
+Nevertheless, the continued application and gradual adaptation of
+these urban and architectural patterns throughout periods of
+industrialization and economic development suggests they respond to
+both long-lasting housing requirements and piecemeal urban growth.
+This article surveys the persistence of urban and architectural
+patterns up to the early twentieth century, showing their resilience in
+addressing the requirements of modern housing and urbanisation.
 
 In this article, I examine patterns of urban development
 in the traditions of the Portuguese speaking world.
@@ -257,22 +245,22 @@ expediency over a punctilious observance of orthogonality, and the edges
 of the town are required to bend to the military requirements of the
 fortifications adjusted to the terrain.
 
-![Reconstructed foundation town plan of Caminha, thirteenth century, author's drawing after @trindade:2009urbanismo, 157](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
+![Reconstructed foundation town plan of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 157]](https://upload.wikimedia.org/wikipedia/commons/6/66/Caminha_plan_13c_reconstructed_01.png){#fig:caminha}
 
 The *vila nova* layout establishes and observes certain geometric
 procedures to ensure regularity and the equal distribution of urban
 lots. These urban plans are executed in a modular scheme based on whole
-number ratios of the traditional Portuguese measurement unit: the hand,
+number ratios of the traditional Portuguese measurement unit: the span,
 or *palmo* (abbreviated to 'p.'), equal to about 22.5 centimetres. 5 p.
-equal one Portuguese yard or *vara*, thus measuring 1.12 metre. The
-*vara* seems, in fact, to be the least multiple effectively used in most
-urban plans. At Caminha, according to the reconstruction proposed by
-Trindade (@Fig:caminha-modules), the basic elements of the urban
-design are 15 p.-wide streets (3.4 metres) and lots 25 p. (5.6 metres)
-wide by 60 to 75 p. (13.5 to 16.9 metres) deep [@trindade:2009urbanismo,
+equal one Portuguese yard or *vara*, thus measuring 1.12 metre. The yard
+seems, in fact, to be the least multiple effectively used in most urban
+plans. At Caminha, according to the reconstruction proposed by Trindade
+(@Fig:caminha-modules), the basic elements of the urban design are
+15 p.-wide streets (3.4 metres) and lots 25 p. (5.6 metres) wide by
+60 to 75 p. (13.5 to 16.9 metres) deep [@trindade:2009urbanismo,
 323-328].
 
-![Reconstructed modular platting of Caminha, thirteenth century, author's drawing after @trindade:2009urbanismo, 328. Units: 1 palmo = 22.5 centimetres and 1 vara = 5 palmos = 1.125 metre](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
+![Reconstructed modular platting of Caminha, thirteenth century, author's drawing after [@trindade:2009urbanismo, 328]. Units: 1 span = 22.5 centimetres and 1 yard = 5 spans = 1.125 metre](https://upload.wikimedia.org/wikipedia/commons/8/88/Caminha_plan_13c_ideal.png){#fig:caminha-modules}
 
 Other commonly used lot frontage dimensions are 20 p. (4.5 metres) and
 30 p. (6.75 metres). This range of variations offers lot sizes
@@ -524,7 +512,7 @@ constraints and the dimensional limits the traditional building types
 can reach.
 
 Customary measurement units play a significant part in the stabilisation
-of urban and building types. The *palmo* (hand) and especially its
+of urban and building types. The *palmo* (span) and especially its
 five-fold multiple, the *vara* (yard) provide sensible, minimal modules
 for sizing construction elements and laying out urban units---most
 importantly, lot and street widths. Lots 20, 25, and 30 p. wide occur

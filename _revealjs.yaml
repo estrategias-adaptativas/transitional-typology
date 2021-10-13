@@ -1,0 +1,34 @@
+# Assumes the slide presentation will be generated in
+# a subfolder and reveal.js is loaded as a submodule at
+# the website root.
+# Makes use of my css-slides/revealjs.scss gist.
+from            : "markdown+tex_math_single_backslash"
+to              : "revealjs"
+bibliography    : "_bibliography/references.bib"
+data-dir        : "_lib"
+email-obfuscation: references
+fail-if-warnings: false
+file-scope      : true
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  crossrefYaml  : "_spec/revealjs-crossref.yaml"
+  csl           : "https://raw.githubusercontent.com/citation-style-language/styles/master/modern-language-association.csl"
+  suppress-bibliography: false
+resource-path:
+  - .
+  - "_spec"
+slide-level     : 2
+standalone      : true
+toc-depth       : 1
+variables:
+  backgroundTransition: 'slide'
+  controls      : 0
+  css           : "../assets/css/revealjs-main.css"
+  hash          : true
+  hashOneBasedIndex: true
+  progress      : 0
+  revealjs-url  : "reveal.js"
+  width         : 1920
+  height        : 1080

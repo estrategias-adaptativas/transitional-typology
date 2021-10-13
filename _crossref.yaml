@@ -1,0 +1,4 @@
+ccsLabelSep: "&nbsp;&ndash;&nbsp;"
+subfigureRefIndexTemplate: $$i$$$$suf$$ $$s$$
+subfigGrid  : true
+subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]

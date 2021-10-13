@@ -1,6 +1,9 @@
 ---
 title   : "Vernacular Patterns in Portugal and Brazil: Evolution and Adaptations"
+author  : Pedro P. Palazzo
+date    : 2020-10-26
 lang    : "en-GB"
+layout  : home
 csl     : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
 suppress-bibliography: true
 ---

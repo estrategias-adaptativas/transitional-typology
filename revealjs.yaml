@@ -1,9 +1,0 @@
-from            : markdown
-to              : revealjs
-fail-if-warnings: True
-file-scope      : True
-standalone      : True
-toc             : True
-toc-depth       : 1
-variables:
-  theme         : beige

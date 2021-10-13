@@ -1,32 +1,48 @@
-VPATH = lib
-vpath %.bib .:bibliography
-vpath %.csl _csl
-vpath %.yaml .:spec:_data
-vpath default.% lib
+VPATH = . assets
+vpath %.bib .:_bibliography
+vpath %.html . _includes _layouts _site
+vpath %.scss _sass slides/reveal.js/css/theme/template
+vpath %.yaml .:_spec:_data
+vpath default.% _lib
+vpath reference.% _lib
 
-article.docx : article.md biblio.bib docx.yaml | _csl
+PANDOC_VERSION  := 2.14.1
+JEKYLL_VERSION  := 4.2.0
+PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
+	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC_VERSION)
+JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
+
+ASSETS  = $(wildcard assets/*)
+SASS    = _revealjs-settings.scss \
+					mixins.scss settings.scss theme.scss
+
+# {{{1 Recipes
+#      =======
+article.docx :
+
+.PHONY : _site
+_site : _site/slides/index.html assets/css/main.scss
+	@echo "####################"
+	@docker run --rm -v "`pwd`:/srv/jekyll" \
+		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+.PHONY : serve
+serve : _site/slides/index.html assets/css/main.scss
+	@echo "####################"
+	@docker run --rm -v "`pwd`:/srv/jekyll" \
+		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
+		$(JEKYLL) jekyll serve --future
+
+%.docx : %.md references.bib docx.yaml
 	docker run --user `id -u`:`id -g` \
-		-v "`pwd`:/data" pandoc/crossref:2.12 \
-		$< -d docx.yaml -o $@
+		-v "`pwd`:/data" pandoc/crossref:2.14.1 \
+		$< -d _spec/docx.yaml -o $@
 
-_site/slides/index.html : revealjs.yaml _slides.md | _site
-	@mkdir -p _site/slides
-	docker run --user `id -u`:`id -g` \
-		-v "`pwd`:/data" pandoc/crossref:2.12 \
-		-o $@ -d revealjs.yaml $<
-
-_site :
-	docker run -v "`pwd`:/srv/jekyll" \
-		jekyll/jekyll:3.8.5 /bin/bash -c \
-		"chmod 777 /srv/jekyll && jekyll build --future"
-
-_csl :
-	git clone --depth=1 https://github.com/citation-style-language/styles.git $@
-
-serve : 
-	docker run -v "`pwd`:/srv/jekyll" \
-		-h 127.0.0.1 -p 4000:4000 jekyll/jekyll:3.8.5 \
-		jekyll serve --skip-initial-build
+_site/slides/index.html : _slides/index.md _revealjs.yaml references.bib
+	@-mkdir -p $(@D)
+	@$(PANDOC/CROSSREF) -o $@ -d _revealjs.yaml $<
+	@cp -r _slides/reveal.js _site/slides/reveal.js
+	@echo $(@D)
 
 clean :
 	-rm -rf _csl _site

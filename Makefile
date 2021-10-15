@@ -38,10 +38,8 @@ serve : _site/slides/index.html assets/css/main.scss
 		-v "`pwd`:/data" pandoc/crossref:2.14.1 \
 		$< -d _spec/docx.yaml -o $@
 
-_site/slides/index.html : _slides/index.md _revealjs.yaml references.bib
-	@-mkdir -p $(@D)
+slides/index.html : _slides/index.md _revealjs.yaml references.bib
 	@$(PANDOC/CROSSREF) -o $@ -d _revealjs.yaml $<
-	@cp -r _slides/reveal.js _site/slides/reveal.js
 	@echo $(@D)
 
 clean :

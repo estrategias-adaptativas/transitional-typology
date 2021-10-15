@@ -5,5 +5,5 @@
 	path = _sass
 	url = https://github.com/p3palazzo/tufte-mmistakes
 [submodule "_slides/reveal.js"]
-	path = _slides/reveal.js
+	path = slides/reveal.js
 	url = https://github.com/hakimel/reveal.js.git

@@ -254,182 +254,120 @@ It has a clear hierarchy of street breadths and most lots have 20 span
 frontages.
 
 This area grows into one of the densest and socio-economically diverse
-neighborhoods outside the city centre, and also one of the best
-preserved nineteenth century districts. This is, in part, due precisely
-to the extremely fragmented land ownership pattern of its narrow lots,
-which has prevented the consolidation required for large-scale
+neighborhoods outside the city centre, and one of the best preserved
+nineteenth century districts to this day.
+
+This is, in part, because the fragmented land ownership pattern of its
+narrow lots has prevented the consolidation required for large-scale
 redevelopment.
 
-Farther to the west, mid nineteenth century development
-on green fields introduces notable, though short lived, variations in
-the form of 15 and 18 p. (3.4 and 4 metre) lots destined for
-working-class rental. These extremely narrow lots sometimes unfold to
-extreme depths, creating *cortiços* (slums or tenements) akin to the
-contemporary *ilhas* in Oporto. In Rio, these narrow lots are rapidly
-overrun by demand for bulkier apartment or commercial buildings,
-however. This short life span of the extremely narrow lots contrasts
-with the resilience of the 20 and 25 p. lots on the former *rossio*.
+Even urban renewal operations intended to 'modernize' the city couldn't
+entirely do away with traditional building types.
 
-![Urban development on the former *rossio* of Rio de Janeiro: 100 p. thoroughfare (rua Larga de São Joaquim), 30 p. streets (rua de São Pedro and rua do Sabão) and 25 p. street (cross street), blocks mostly subdivided into 20 p. lots. Detail from Edward Gotto's plan, 1871](https://upload.wikimedia.org/wikipedia/commons/7/7b/Rua_de_S_Pedro_from_the_Gotto_Plan_of_Rio_de_Janeiro_1871_stitched.jpg){#fig:gotto}
-
-Haussmanian *percées* by the federal government during
-the first half of the twentieth century end up opening several stretches
-of this area for the construction of large office buildings, which
-compare poorly to the historic fabric in terms of diversity and
-pedestrian life.
-Nevertheless, those *percées* that take place during the first decade of
-the twentieth century demonstrate how resilient the Luso-Brazilian
-building traditions are. De Paoli has noted one of the goals of these
-early urban renewal interventions is to force the consolidation of
-narrow lots into broader ones, at least 6 to 7 metres wide (a
-measurement reminiscent of the suburban Portuguese 30 p. lot?). However,
-several such consolidated lots are redeveloped with two or more
-independent structures side by side, rather than one large building
-[@paoli:2013outra, 36]. New mixed use buildings granted planning consent
-between 1903 and 1908 often preserve the side hallway plan type
-([@Fig:saopedro]; compare with [@fig:plans]).
-
-![Approved building application on rua de São Pedro, Rio de Janeiro, c. 1903. Arquivo Geral da Cidade do Rio de Janeiro, reproduced by de Paoli [-@paoli:2013outra]](https://upload.wikimedia.org/wikipedia/commons/0/05/Building_on_rua_de_S_Pedro_Rio_de_Janeiro_1903.jpg){#fig:saopedro}
+In the first decade of the twentieth century there were still some
+accepted planning applications that featured traditional rowhouse plans
+on 25-span lots.
 
 # Effects of metrification on lot frontages #
 
-Meanwhile, in 1834, Portugal officially adopts the metric system,
-followed much later by Brazil in 1872. Metrification directly impacts
-the construction trades and urban subdivision, not the least because it
-is accompanied by a surge in new municipal and national regulations on
-building and urban development. An evidence of these changes is recorded
-in the urban fabric of the Portuguese city of Oporto, which grows
-significantly over the course of the nineteenth century due to
-industrial development. The earlier growth spurs, along pre-existing
-roads, exhibit traditional urban lot frontages 20 or 25 p. wide. On the
-rua do Almada, a new thoroughfare opened in 1761 but only developed much
-later, on the other hand, lots are standardised at 5 metres wide
-([@Fig:almada]).
+In the meantime, there is another 'rationalist' revolution going on in
+mid nineteenth century Portugal and Brazil: the switch to the metric
+system, together with a push to regulate building standards at a much
+more specific level to address modern ideals of natural lighting and
+ventilation.
 
-![Different lot standards before and after metrification in Oporto. Base map by Augusto Carlos Teles Ferreira, 1892](https://upload.wikimedia.org/wikipedia/commons/5/51/Lot_modules_in_Oporto.png){#fig:almada}
+In the long run, going metric means new lot frontages get rounded up, or
+more likely down, to arbitrary integer measurements.
 
-Metrification and the ensuing drive for ever more comprehensive building
-regulations are also at play in early twentieth century São Paulo,
-Brazil's own industrial powerhouse. Lemos observes that a positivistic
-will to 'improve' low-income housing in that city
-[@lemos:1999republica]. Turn of the century regulations deal chiefly
-with natural lighting and ventilation requirements in some (not all, at
-first) rooms of the house. This results, at first, in conservative (and
-inconvenient) designs where the side hallway becomes an open court; only
-later do actual side setbacks become common, requiring wider lots
-([@Fig:bentofreitas]).
+This happens in some areas of Oporto during its industrial growth in the
+second half of the nineteenth century.
 
-![Rental dwellings in São Paulo, ca. 1900. @lemos:1987ecletismo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png/607px-Rental_houses_on_Bento_Freitas_Street_S%C3%A3o_Paulo.png){#fig:bentofreitas}
+Earlier subdivisions show the traditional 20 and 25 span frontages, but
+a newer one rounds this to 5 metres, roughly the mean between the two
+traditional frontages.
 
-Even as the example of São Paulo contributes to the dissemination of
-side yard houses throughout Brazil in the early twentieth century,
-Portuguese builders take a different approach to the mandate of natural
-lighting and ventilation. Several public and private developments of the
-early twentieth century, especially in the centre and south of Portugal,
-experiment with an 8.5 to 9 metre wide suburban housing type made up of
-four cells arranged in a square, with or without a hallway. A number of
-variations on this type are to be found at Entroncamento, a railway
-junction company town from the late nineteenth and early twentieth
-centuries [@paixao:2016bairros]. These dwellings, designed by architects
-and engineers, are arranged in pairs, evidencing some familiarity with
-current concepts of garden suburbs ([@Fig:entroncamento]). Their
-architectural style has often been condemned as merely nostalgic,
-representing a superficial attachment to familiar visual cues and,
-worse, playing into conservative politics [@rosmaninho:2002casa].
-Contrary to this interpretation, which itself betrays a superficial
-study of such houses, however, these planned dwellings demonstrate an
-understanding of the long typological history of Portuguese houses, and
-a conscious effort to adapt it to modern urban principles.
+Brazil is somewhat late to catch up on both the metric system and strict
+building regulations, but it eventually happens in Rio de Janeiro and
+São Paulo at the turn of the century.
 
-![Two four-cell housing types in Entroncamento, 1925--1928. @paixao:2016bairros](https://i.pinimg.com/originals/32/3c/5a/323c5aaeb43fab8b2c148867baa99102.png){#fig:entroncamento}
+Some working-class houses address these changes not so much by adopting
+new lot sizes, but mostly by cutting out some awkward courtyards out of
+the hallways in traditional house types.
 
-The increasing popularity of garden city principles as well as a
-tendency to round up metric dimensions to 10 metre frontages cause the
-ultimate break down of this process. In the 1960s, the widespread use of
-10-metre frontages encroaches even on historic towns such as Ouro Preto
-([@Fig:op-santacasa]). Nevertheless, the damaging effect of this
-transformation on the character of traditional urban areas is not
-noticed by historic preservationists until much later, in the 1980s
-[@motta:1987sphan22, 114]. By then, the exponential urban growth of the
-post-war era had already caused major loss of character in such sites.
+Eventually, however, building codes would require lot widths to
+accommodate both a covered hallway and a side setback.
 
-![Unexecuted infill subdivision project in the Alto das Cabeças neighbourhood, Ouro Preto, Brazil, 1965. Left: pre-existing conditions; middle: planning application; right: as approved by the National Heritage Institute (Iphan). Redrawn in @salgado:2010ouro after @motta:1987sphan22](https://i.pinimg.com/originals/28/6b/08/286b08420d851e388ac3fd5ada17248c.png){#fig:op-santacasa}
+These strict regulations, together with the fact that most new housing
+is getting built as planned subdivisions on cheap land, mean that at
+some point the vernacular urban house is no longer the preferred
+building type.
+
+Around 1900 in north central Portugal, builders and architects bring a
+*rural* house type into this process of urban growth.
+
+This is a vernacular module that has been used in the south of the
+country since the Early Modern period; it consists of three or four
+rooms arranged in a plan about 40 spans, or 9 metres, square.
+
+This unit is particularly suited to the new mandates on natural lighting
+and ventilation that entail wider frontages in new urban buildings.
+
+At the same time, it is not as costly as building a fully detached house
+on a very large lot, so during the first three decades of the twentieth
+century this 40-span house type becomes a fairly standard solution for
+the middle class and even for parts of the working class, such as
+railway workers.
+
+In the mid 1920s, the architects of the Portuguese railway explored a
+number of variations on the theme of the 9-metre square house in a
+planned garden next to the company's main rail yards.
+
+These houses have different configurations of hallways between rooms,
+each of them studied with an eye on the modern ideal of efficiency, but
+they are all built in load bearing masonry and follow the same sizes and
+proportions of their vernacular models.
+
+Recent historians of Portuguese and Brazilian architecture often look at
+1920s houses from the superficial perspectives of style and ideology.
+
+They are put off by what they perceive as aesthetic and political
+conservatism, and believe these designs are just mindless nostalgia for
+pretty houses or, worse, pandering to far right nationalism.
+
+But they are blind to the structural continuity from an Early Modern
+rural building type to the suburban working class houses of the 1900s to
+1920s.
+
+However, these designs were the last throes of the vernacular town
+building patterns.
+
+The anti-urban ideal of modern architecture and a lazy tendency to round
+up lot frontages to 10 meters will cause the breakdown of typological
+continuity by the second half of the twentieth century.
 
 # Conclusion #
 
-This article surveyed the emergence and transformation of traditional
-urban and building patterns in Portugal and Brazil, singling out
-recurring measurements and modules.
-These town building traditions remain sensibly stable
-for nearly five centuries, from the early thirteenth to the mid
-eighteenth century. Even as the territorial policies of 'enlightened
-despotism' in Portugal impose new, centralised and monumental urban
-forms onto the landscape, these forms accommodate most of the existing
-practices regarding lot dimensions and house types. A crisis in
-traditional patterns arises more sharply with the adoption of the metric
-system in Portugal and Brazil during the nineteenth century, followed by
-the turn of the century positivist approach to comprehensive urban and
-building regulation. Still, elements of traditional building types
-persist well into the twentieth century, only to break down in the
-second half of that century.
+Until then, vernacular patterns in Portugal and Brazil were able to
+adapt to changing conditions---planned vs unplanned towns, urban core
+infill vs suburban expansion, mainland vs colonial settlements, and so
+on.
 
-This kind of study relies mostly on planned new towns and large urban
-expansions, which show the interaction between top-down designs and
-bottom-up vernacular practice. Its most significant drawback is,
-therefore, its reliance on a centralised 'act of will' for evidence of
-the modularity of decentralised patterns.
-Urban infill and redevelopment can provide insights on the
-persistence of generic building types, but the constraints of the
-existing fabric and land ownership patterns are likely to supplant any
-explicit choice of dimensional modules. On the other hand, these same
-constraints foster the continued use of plan layouts adapted to the
-existing lot sizes. A larger and more detailed body of architectural
-documentation might shed light on the relationship between these
-constraints and the dimensional limits the traditional building types
-can reach.
+This continuous typological process lasted for about six hundred years.
+Even when engineers and architects tried to encroach on vernacular
+architecture in the name of 'rationality' or 'hygiene', they would take
+their cues from traditional lot sizes and building types.
 
-Customary measurement units play a significant part in the stabilisation
-of urban and building types. The *palmo* (span) and especially its
-five-fold multiple, the *vara* (yard) provide sensible, minimal modules
-for sizing construction elements and laying out urban units---most
-importantly, lot and street widths. Lots 20, 25, and 30 p. wide occur
-consistently up to the mid nineteenth century, both in developments
-planned and controlled by the state, and in the private dynamics of
-suburban extensions to major cities. These dimensions support specific
-building types, consisting of linear arrangements of spatial cells with
-or without hallways, that change very little up to the late nineteenth
-century.
+The long-term stability of vernacular patterns in the Portuguese
+tradition highlights the importance of looking at long-term trends.
 
-The successive shocks of metrification and of positivist building
-regulations, in the mid to late nineteenth century, provoke conspicuous
-changes in urban and building morphology, as well as the eventual split
-of the Portuguese-Brazilian tradition into two separate national trends.
-Even historic preservation has done little to stem the decline of
-traditions, not the least due to the prevailing emphasis, in
-preservation theory and practice throughout the twentieth century, on
-upholding the fatalist distinction between 'original' and 'addition'
-rather than on protecting the continuous *process* giving rise to
-traditional urban areas.
-Despite this loss, traditional plan layouts continue to provide cultural
-references and models for new projects well into the first half of the
-twentieth century. The spatial efficiency and functional flexibility of
-such types as the townhouse, endowed since the late 1800s with a side
-yard, and the foursquare cell house, compare favourably to recent types
-of housing and urban development.
-
-The long-term stability of Portuguese building modules is a case that
-vindicates, in our age so fond of 'microhistory', the importance
-ascribed to intrahistory by Chueca Goitia and Braudel. Yet its value
-also reaches beyond the domain of the historian's craft: it is a
-statement on the importance of continuity to design practice.
 The study of modules in urban and building development shows the
 resilience of morphological patterns and professional practices through
-time. Standardised street widths, lot sizes, and building types are
-valuable evidence of cumulative problem solving; aimless experimentation
-and constant starting over from scratch, by contrast, have resulted in
-so many failed architectural and urban projects.
+time.
 
-# References #
+Standardised street widths, lot sizes, and building types are
+valuable evidence of cumulative problem solving.
 
-[^1]: @orr:2018five. I am grateful to Douglas Duany for introducing me
-to Orr's concept of a 'block of blocks.'
+This evidence contradicts the academic belief that successive historical
+periods are incomparable to each other; continuity exists in the real
+world, whenever people grasp the value of the knowledge they inherited.
+
